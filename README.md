@@ -8,7 +8,7 @@ Na versão **1.0.0**, o projeto será construído de maneira rudimentar, não co
 
 A partir da versão **2.0.0**, o projeto deve ser estrutura com testes, domínio principal, subdomínio, repositórios, interfaces e um ORM.
 
-A versão **3.0.0-release**, além de microsserviços, deve apresentar, também, uma Api Gateway, Load Balancer e containers.
+A versão **3.0.0-release**, além de microsserviços, deve apresentar, também, uma Api Gateway, Load Balancer e containers e serviço de filas de mensagens.
 
 ## Base do projeto
 
